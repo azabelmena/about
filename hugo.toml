@@ -1,6 +1,6 @@
 baseURL = 'https://cv.azabelmena.xyz'
 languageCode = 'en-us'
-title = "Curriculum Vitae"
+title = "About"
 copyright = 'Alec S. Zabel-Mena'
 enableRobotsTXT = true
 
@@ -14,11 +14,11 @@ enableRobotsTXT = true
   page = ['html']
 
 [menus]
-  [[menus.main]]
+  [[menu.main]]
     identifier = "home"
     name       = "Home"
     url        = "https://azabelmena.xyz"
-    weight     = 10
+    weight     = 60
 
 [markup]
   [markup.highlight]

@@ -1,7 +1,7 @@
 +++
 date = '2026-03-21T18:13:37-04:00'
 draft = false
-title = 'About'
+title = 'About Me'
 +++
 
 
